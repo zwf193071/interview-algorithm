@@ -9,7 +9,7 @@
             "request": "launch",
             "name": "nodemon",
             "runtimeExecutable": "nodemon",
-            "program": "F:/interview-algorithm/src/lost-three-nums/lost-three-nums.js",
+            "program": "F:/interview-algorithm/src/divide-two-integers/divide-two-integers.js",
             "restart": true,
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen"

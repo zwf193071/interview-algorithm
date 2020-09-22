@@ -1,10 +1,12 @@
-
-## interview-algorithm
+# interview-algorithm
 > 记录前端面试算法题目详解
 
-* [Lost Three Nums](#Lost Three Nums)
-* [Divide Two Integers](#Divide Two Integers)
-* [Random Numbers](#Random Numbers)
+**目录**
+
+- [interview-algorithm](#interview-algorithm)
+- [Lost Three Nums](#lost-three-nums)
+- [Divide Two Integers](#divide-two-integers)
+- [Random Numbers](#random-numbers)
 
 
 ## Lost Three Nums

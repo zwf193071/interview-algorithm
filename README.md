@@ -2,7 +2,7 @@
 ## interview-algorithm
 > 记录前端面试算法题目详解
 
-* [Lost Three Nums]](#Lost Three Nums)
+* [Lost Three Nums](#Lost Three Nums)
 * [Divide Two Integers](#Divide Two Integers)
 * [Random Numbers](#Random Numbers)
 

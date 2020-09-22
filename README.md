@@ -3,7 +3,6 @@
 
 **目录**
 
-- [interview-algorithm](#interview-algorithm)
 - [Lost Three Nums](#lost-three-nums)
 - [Divide Two Integers](#divide-two-integers)
 - [Random Numbers](#random-numbers)

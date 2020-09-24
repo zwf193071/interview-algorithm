@@ -6,6 +6,7 @@
 - [Lost Three Nums](#lost-three-nums)
 - [Divide Two Integers](#divide-two-integers)
 - [Random Numbers](#random-numbers)
+- [Longest Common Prefix](#longest-common-prefix)
 
 
 ## Lost Three Nums
@@ -16,3 +17,6 @@
 
 ## Random Numbers
 用计算机生成了N个1到1000之间的随机整数，对于其中重复的数字，只保留一个，把其余相同的数去掉，再把这些数从小到大排序。解法二性能更优，耗时1ms左右，而解法一曾出现最大耗时23ms
+
+## Longest Common Prefix
+取数组内所有字符串最长的相同前缀，此题为leetcode上的题目

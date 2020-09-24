@@ -51,4 +51,32 @@ function commonPrefix(left, right) {
     }
     return left.substring(0, min);
 }
+// console.log(longestCommonPrefix2(["flower", "flow", "flight"]))
 
+// 解法四 Binary search
+var longestCommonPrefix3 = function (strs) {
+    if (!strs || !strs.length) return "";
+    let minLen = Number.MAX_SAFE_INTEGER;
+    strs.forEach(str => {
+        minLen = Math.min(minLen, str.length);
+    });
+    let low = 1;
+    let high = minLen;
+    while (low <= high) {
+        let middle = parseInt((low + high) / 2)
+        if (isCommonPrefix(strs, middle)) {
+            low = middle + 1;
+        } else {
+            high = middle - 1;
+        }    
+    }
+    return strs[0].substring(0, (low + high) / 2);
+}
+
+function isCommonPrefix (strs, len) {
+    let str1 = strs[0].substring(0, len);
+    for (let i = 0; i < strs.length; i++) {
+        if (!strs[i].startsWith(str1)) return false;
+    }
+    return true;
+}

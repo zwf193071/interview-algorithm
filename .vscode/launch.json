@@ -9,7 +9,7 @@
             "request": "launch",
             "name": "nodemon",
             "runtimeExecutable": "nodemon",
-            "program": "F:/interview-algorithm/src/divide-two-integers/divide-two-integers.js",
+            "program": "F:/interview-algorithm/src/longest-common-prefix/longest-common-prefix.js",
             "restart": true,
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen"

@@ -7,6 +7,7 @@
 - [Divide Two Integers](#divide-two-integers)
 - [Random Numbers](#random-numbers)
 - [Longest Common Prefix](#longest-common-prefix)
+- [Most Time Letter](#most-time-letter)
 
 
 ## Lost Three Nums
@@ -20,3 +21,6 @@
 
 ## Longest Common Prefix
 取数组内所有字符串最长的相同前缀，此题为leetcode上的题目
+
+## Most Time Letter
+计算出字符串中出现次数最多的字符是什么，出现了多少次？

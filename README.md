@@ -8,6 +8,8 @@
 - [Random Numbers](#random-numbers)
 - [Longest Common Prefix](#longest-common-prefix)
 - [Most Time Letter](#most-time-letter)
+- [Search Insert Position](#search-insert-position)
+- [Maximum Subarray](#maximum-subarray)
 
 
 ## Lost Three Nums
@@ -24,3 +26,9 @@
 
 ## Most Time Letter
 计算出字符串中出现次数最多的字符是什么，出现了多少次？
+
+## Search Insert Position
+插入特定的数字到已排序好的数组内，返回该数应插入数组内的索引位置
+
+## Maximum Subarray
+数组中，对其中连续一组数据相加，求最大的和值

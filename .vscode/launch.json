@@ -9,7 +9,7 @@
             "request": "launch",
             "name": "nodemon",
             "runtimeExecutable": "nodemon",
-            "program": "F:/interview-algorithm/src/longest-common-prefix/longest-common-prefix.js",
+            "program": "F:/interview-algorithm/src/search-insert-position/search-insert-position.js",
             "restart": true,
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen"
